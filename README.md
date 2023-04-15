@@ -1,2 +1,2 @@
-# publication-discipline-classifier-prob
-Automated classification of academic disciplines in research papers based on keyword analysis.
+# Description
+This repository contains a Python program that classifies the academic discipline of research publications based on their title and abstract. The program uses a dictionary of keywords for each discipline and calculates the probability of the publication belonging to a particular discipline based on the number of keyword matches. The program reads data from an Excel file and outputs the classified data with the corresponding probability values to a new Excel file. This program can be useful for researchers and data analysts working with large amounts of academic data and seeking to automate the classification process. The code is provided in a clear and modular format, allowing for easy modification and integration into other projects.
